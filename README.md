@@ -15,5 +15,6 @@ Lua,
 Grafana,
 SQL,
 MYSQL.
+MongoDB
 
 🌐 Você pode encontrar mais sobre minhas experiências aqui https://leoquadros.vercel.app até logo!
