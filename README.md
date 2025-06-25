@@ -3,7 +3,6 @@
 🏆 Tecnologias
 TypeScript,
 JavaScript,
-TCSS,
 TailwindCSS,
 React,
 Node.js.
