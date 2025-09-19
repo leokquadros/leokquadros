@@ -2,7 +2,7 @@
 
   <h1>Bem-vindo ao meu GitHub</h1>
   <p style="font-size: 14px;">
-  Me chamo Leonardo, atualmente trabalho desenvolvendo sites para ecommerce e aplicando soluções como API, APPs e modificações em plataformas como Shopify, nuvemshop entre outras. Também desenvolvo landing pages, nas horas vagas. Desenvolvo sistemas para jogos atualmente para Fivem (GTAV) onde aplico minhas habilidades de front-end com TypeScript e React, para desenvolver interfaces. 
+  Me chamo Leonardo, atualmente trabalho desenvolvendo sites para ecommerce e aplicando soluções como API, APPs e modificações em plataformas como Shopify, nuvemshop entre outras. Também desenvolvo landing pages, nas horas vagas desenvolvo sistemas para jogos atualmente para Fivem (GTAV) onde aplico minhas habilidades de front-end com TypeScript e React, para desenvolver interfaces. 
   </p>
 
   <h2></h2>
