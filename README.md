@@ -2,32 +2,28 @@
 
   <h1>Bem-vindo ao meu GitHub</h1>
   <p style="font-size: 14px;">
-  Me chamo Leonardo, atualmente trabalho desenvolvendo sites para ecommerce e aplicando soluções como API, APPs e modificações em plataformas como Shopify, nuvemshop entre outras. Também desenvolvo landing pages, nas horas vagas desenvolvo sistemas para jogos atualmente para Fivem (GTAV) onde aplico minhas habilidades de front-end com TypeScript e React, para desenvolver interfaces. 
+ Me chamo Leonardo e sou estudante de Engenharia de Software, atualmente em busca da minha primeira oportunidade profissional na área de tecnologia. 
+
+Tenho experiência prática desenvolvendo sites para e-commerce, atuando com APIs, aplicativos e customizações em plataformas como Shopify e Nuvemshop. Também crio landing pages otimizadas para conversão e experiência do usuário. 
+
+Nas horas vagas, dedico-me ao desenvolvimento de sistemas para jogos, especialmente para servidores de FiveM (GTA V), onde aplico minhas habilidades em front-end e back-end, TypeScript, React e Lua para desenvolver interfaces e sistemas. 
   </p>
 
   <h2></h2>
 
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs," />
+  </a>
+</p>
 
 <h2></h2>
 
-<a href="https://www.linkedin.com/in/leo-kquadros" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contatoleoquadros@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leoquadros.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-24292E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin," />
+  </a>
+</p>
 
 </div>
