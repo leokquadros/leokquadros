@@ -6,7 +6,7 @@
 
 Tenho experiência prática desenvolvendo sites para e-commerce, atuando com APIs, aplicativos e customizações em plataformas como Shopify e Nuvemshop. Também crio landing pages otimizadas para conversão e experiência do usuário. 
 
-Nas horas vagas, dedico-me ao desenvolvimento de sistemas para jogos, especialmente para servidores de FiveM (GTA V), onde aplico minhas habilidades em front-end e back-end, TypeScript, React e Lua para desenvolver interfaces e sistemas. 
+Nas horas vagas, dedico-me ao desenvolvimento de sistemas para jogos, especialmente para servidores de GTA V, onde aplico minhas habilidades em front-end e back-end, TypeScript, React e Lua para desenvolver interfaces e sistemas. 
   </p>
 
   <h2></h2>
