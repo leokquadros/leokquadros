@@ -1,28 +1,18 @@
-<div align="center">
+<div>
+  <p style="font-size: 10px;">
+💻 Full Stack Developer at <a href="loja.merciarp.com.br" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;"> Mércia Roleplay</a> with over 2 years of experience.
 
-  <h1>Bem-vindo ao meu GitHub</h1>
-  <p style="font-size: 14px;">
- Me chamo Leonardo e sou estudante de Engenharia de Software, atualmente em busca da minha primeira oportunidade profissional na área de tecnologia. 
+📕 Currently pursuing a degree in Software Engineering at <a href="https://www.unilasalle.edu.br" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">La Salle University.
 
-Tenho experiência prática desenvolvendo sites para e-commerce, atuando com APIs, aplicativos e customizações em plataformas como Shopify e Nuvemshop. Também crio landing pages otimizadas para conversão e experiência do usuário. 
-
-Nas horas vagas, dedico-me ao desenvolvimento de sistemas para jogos, especialmente para servidores de GTA V, onde aplico minhas habilidades em front-end e back-end, TypeScript, React e Lua para desenvolver interfaces e sistemas. 
-  </p>
-
-  <h2></h2>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs," />
-  </a>
+⚙️ I currently work as a freelance developer, creating systems and automations for small and medium-sized companies.
+    
 </p>
 
-<h2></h2>
+<hr></hr>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin," />
+    <img src="https://skillicons.dev/icons?i=typescript,react,javascript,nodejs,lua,sqlite" />
   </a>
 </p>
 
